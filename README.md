@@ -1,5 +1,22 @@
 # Re:Coded Mad Libz
 
+Madlibs is a game aimed for children and a task provided by Re:coded trainers, the purpose of the game is to have two identical paragraphs both missing some adjectives, nouns, and verbs to be filled along with a story, in order to play you have to fill the missing the values and complete the story, once completed, you can reset your values and generate the same story but with different actions.
+
+[Visit Website](https://madlibsgame.netlify.app)
+
+## Preview
+![Madlibs Game GIF](https://github.com/awadbilal/portfolio/raw/master/src/locales/images/MLGGIF.gif)
+
+## Technologies Used
+
+#### HTML5 => Project with semantic coding
+#### CSS3 => Styling
+#### Media Queries => Responsive styling
+#### JavaScript => Functionalities
+
+#
+
+#The following text is the task we have been assigned at Re:Coded bootcamp
 ## What is Mad Libs? 
 See [wikipedia](https://en.wikipedia.org/wiki/Mad_Libs). Yes, I know this section is short, do not skip this, **please read what Mad Libs is or the rest of this will make no sense**. In normal mad libs, you usually just insert the word, but in this version, it's more like a "fill in the blank" of an existing story.
 
